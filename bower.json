@@ -1,0 +1,28 @@
+{
+	"name": "marketing-elements",
+	"homepage": "https://github.com/tiki-elements/marketing-elements",
+	"authors": [
+		"Tiki Corp"
+	],
+	"description": "A set of visual and non-visual utility elements for Tiki MKT squad.",
+	"main": "shopping-elements.html",
+	"keywords": [
+		"Marketing",
+		"Landing",
+		"page",
+		"Home",
+		"page"
+	],
+	"license": "MIT",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"tiki-landing-page-countdown": "https://github.com/tiki-elements/tiki-landing-page-countdown.git"
+	}
+}
